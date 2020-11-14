@@ -1,4 +1,4 @@
-# TOVEPaper
+# TOVE Paper
 
 Codes for paper about TOVE data. Files available:
 
