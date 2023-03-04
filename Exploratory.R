@@ -3,8 +3,7 @@
 ## Reading the data available ##
 
 
-load("~/Documents/Research/DataIntegration/DeadBirds/Preprocessing.RData")
-setwd("/Users/jorgespa/Documents/Research/DataIntegration/DeadBirds/")
+load("Preprocessing.RData")
 
 library(raster)
 names(norswe_lines_aspoints)[1] <- "ID"
