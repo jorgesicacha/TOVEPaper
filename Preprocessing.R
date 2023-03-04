@@ -20,7 +20,7 @@ library(plyr)
 library(reshape2)
 library(maptools)
 library(ggplot2)
-setwd("/Users/jorgespa/Documents/Research/DataIntegration/DeadBirds")
+
 
 ## Species list ##
 
